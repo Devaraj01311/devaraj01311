@@ -61,11 +61,11 @@ I work with **Java**, **MERN**, and **AI-driven** applications, along with **IoT
 
 **AI-powered code review platform** that analyzes code for bugs, logic flaws, and performance improvements.  
 - Built using **React**, **Node.js**, and **OpenAI API**  
-- Supports code reviews for Java, Python, and JS  
+- Supports code reviews for node, and JS  
 - Provides instant feedback and optimization suggestions  
 - User-friendly and developer-centric UI  
 
-🔗 [View Project](https://github.com/Devaraj01311/AICodeReview)
+🔗 [View Project](https://github.com/Devaraj01311/AI-reviewer)
 </details>
 
 <details>
