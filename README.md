@@ -91,10 +91,7 @@ I love building real-world products — from web apps & automation tools to IoT 
 
 ---
 
-## 📂 Featured Projects
-(Your project sections remain same — already perfect)
 
----
 
 ## 📊 GitHub Stats
 
