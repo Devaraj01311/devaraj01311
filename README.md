@@ -92,9 +92,8 @@
 </p>
 
 ### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Devaraj01311/Devaraj01311/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+### 📊 My Activity
+<img src="https://github-readme-stats.vercel.app/api?username=Devaraj01311&show_icons=true&theme=radical" width="100%">
 
 ---
 
