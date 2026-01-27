@@ -23,7 +23,7 @@
       <p>I am a highly driven <b>Software Engineer</b> focused on building high-performance systems. I bridge the gap between <b>heavy-duty Backend Engineering (Java)</b>, <b>intelligent Automation (Python)</b>, and <b>modern Web Architectures (Full-Stack)</b>.</p>
       <p>My workflow is powered by <b>DevOps methodologies</b>, ensuring that every piece of software I build is scalable, containerized, and ready for the cloud.</p>
       <p align="center">
-        <a href="https://linkedin.com/in/devaraj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="https://linkedin.com/in/devaraj-l-b30b88353"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:devarajldev01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
     </td>
@@ -88,11 +88,6 @@
 
 ---
 
-<!-- SNAKE ANIMATION -->
-<h3 align="center">🐍 Contribution Flow</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Devaraj01311/Devaraj01311/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
