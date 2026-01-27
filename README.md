@@ -1,103 +1,99 @@
-<!-- Typing Animation Header -->
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#00BFFF;">Devaraj</span>
-</h1>
+<!-- Banner Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;Java+%26+MERN+Stack+Engineer;Data+Analyst+%7C+Data+Scientist;Mobile+App+Enthusiast;AI+%26+IoT+Explorer;Always+Learning+%26+Building+Cool+Stuff!">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Hi,%20I'm%20Devaraj&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;Java+%26+MERN+Stack+Engineer;Data+Analyst+%7C+Data+Scientist;AI+%26+IoT+Explorer;Building+the+Future+with+Code!">
+</p>
+
+<!-- Quick Stats Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Devaraj01311?label=Followers&style=flat-square&color=00BFFF">
+  <img src="https://img.shields.io/github/stars/Devaraj01311?label=Stars&style=flat-square&color=00BFFF">
+  <img src="https://komarev.com/ghpvc/?username=Devaraj01311&color=00BFFF&style=flat-square&label=Profile+Views">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ About Me
 
-I'm a passionate **Full-Stack Developer & Software Engineer** with experience in  
-**Java**, **MERN**, **Data Analytics**, **AI/ML**, and **IoT systems**.
-
-I love building real-world products — from web apps & automation tools to IoT devices and AI-powered platforms.
-
----
-
-## 🛠️ Technologies & Tools
-
-### 💻 **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
----
-
-### 🧩 **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <p>👋 <b>Hello!</b> I'm a passionate <b>Software Engineer</b> dedicated to crafting efficient and scalable digital solutions.</p>
+      <ul>
+        <li>🔭 I’m currently working on <b>AI-integrated Web Platforms</b></li>
+        <li>🌱 Mastering <b>Deep Learning & Cloud Architectures</b></li>
+        <li>👯 I love collaborating on <b>Open Source Projects</b></li>
+        <li>💬 Ask me about <b>Java, React, or Data Science</b></li>
+        <li>🚀 Fun Fact: I enjoy exploring <b>IoT</b> hardware!</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devaraj01311&layout=compact&theme=radical&hide_border=true&title_color=00BFFF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚙️ **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=swagger&logoColor=white)
+## 🛠️ My Tech Stack
+
+### 💻 **Languages & Core**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+### 🌐 **Frontend Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+### ⚙️ **Backend & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</p>
+
+### 🤖 **Data Science & AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</p>
 
 ---
 
-### 🗄️ **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
----
-
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-### 🤖 **AI, ML & Data Science**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
----
-
-### 🔍 **Data Analytics Tools**
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/Advanced_SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
----
-
-### 🔧 **Other Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-
----
-
-
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devaraj01311&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devaraj01311&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devaraj01311&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devaraj01311&theme=radical&hide_border=true" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devaraj01311&theme=radical&no-bg=true&margin-w=15&column=7" width="100%">
+</p>
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devaraj01311/Devaraj01311/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -106,18 +102,20 @@ I love building real-world products — from web apps & automation tools to IoT 
 
 <p align="center">
   <a href="https://linkedin.com/in/devaraj">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Devaraj01311">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:devarajldev01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Devaraj01311">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
----
+<p align="center">
+  <i>“Code is not just what you write — it’s how you think.”</i> 🚀
+</p>
 
-## 💬 Let's Build Something Awesome Together!
-Always exploring new technologies, contributing to open-source, and experimenting with IoT & AI.  
-> _“Code is not just what you write — it’s how you think.”_ 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=30&section=footer" width="100%" />
+</p>
