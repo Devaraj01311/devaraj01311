@@ -32,9 +32,9 @@
         <a href="mailto:devarajldev01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/user-attachments/assets/8e03e070-1364-4458-a53d-83b68078f44d" width="100%" style="border-radius:15px; border: 2px solid #00BFFF;" />
-      <br><sub><b>"Code. Deploy. Scale."</b></sub>
+  <td width="40%" align="center">
+      <!-- FIXED GIF LINK -->
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
     </td>
   </tr>
 </table>
