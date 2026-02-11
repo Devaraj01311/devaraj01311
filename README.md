@@ -1,93 +1,85 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=280&section=header&text=Devaraj%20%7C%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00BFFF&height=280&section=header&text=Devaraj%20L&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <!-- DYNAMIC TYPING TITLES -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=🚀+Software+Engineer+&+Architect;☕+Java+&+Backend+Expert;🐍+Python+&+AI+Specialist;💻+Full-Stack+Web+Developer;☁️+DevOps+&+Cloud+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=🚀+Software+Engineer+&+Architect;☕+Backend+Systems+with+Java;🐍+AI+Integration+with+Python;💻+Full-Stack+Web+Solutions;☁️+Cloud+Native+&+DevOps">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building_the_Future-00BFFF?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/github/followers/Devaraj01311?label=Followers&style=for-the-badge&color=00BFFF" />
+  <img src="https://komarev.com/ghpvc/?username=Devaraj01311&color=00BFFF&style=for-the-badge&label=Profile+Views" />
 </p>
 
 ---
 
-<!-- ABOUT ME SECTION WITH GIF -->
+<!-- ABOUT ME SECTION -->
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
-      <h2>✨ Professional Profile</h2>
-      <p>I am a highly driven <b>Software Engineer</b> focused on building high-performance systems. I bridge the gap between <b>heavy-duty Backend Engineering (Java)</b>, <b>intelligent Automation (Python)</b>, and <b>modern Web Architectures (Full-Stack)</b>.</p>
-      <p>My workflow is powered by <b>DevOps methodologies</b>, ensuring that every piece of software I build is scalable, containerized, and ready for the cloud.</p>
-      <p align="center">
-        <a href="https://linkedin.com/in/devaraj-l-b30b88353"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:devarajldev01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <h2 align="left">✨ Executive Summary</h2>
+      <p align="left">
+        I am a <b>System Architect & Software Engineer</b> specializing in high-concurrency backend systems and scalable cloud infrastructure. My approach combines the robustness of <b>Enterprise Java</b> with the agility of <b>Modern DevOps</b>.
+      </p>
+      <p align="left">
+        🔭 <b>Currently:</b> Engineering distributed systems and AI-driven automations.<br>
+        🎯 <b>Focus:</b> Performance Optimization, Microservices, and Cloud Security.<br>
+        ⚡ <b>Philosophy:</b> Code is poetry; Architecture is the stage.
+      </p>
+      <p align="left">
+        <a href="https://linkedin.com/in/devaraj-l-b30b88353"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:devarajldev01@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 15px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- TECH ECOSYSTEM -->
-<h2 align="center">🛠️ Technical Ecosystem</h2>
+<!-- TECH STACK SECTION -->
+<h2 align="center">🛠️ Specialized Tech Stack</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" style="background-color: #1a1a1a;"><b>🔥 Core Power</b></td>
-    <td align="center" width="33%" style="background-color: #1a1a1a;"><b>🌐 Development</b></td>
-    <td align="center" width="33%" style="background-color: #1a1a1a;"><b>♾️ Infrastructure</b></td>
-  </tr>
-  <tr>
-    <td valign="top" align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    </td>
-    <td valign="top" align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-    <td valign="top" align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Backend & Languages -->
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,nodejs,express&theme=dark" /><br><br>
+  <!-- Frontend & Design -->
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,figma&theme=dark" /><br><br>
+  <!-- Infrastructure & DB -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,mongodb,postgres,linux,githubactions&theme=dark" />
+</p>
 
 ---
 
-<!-- STATS & METRICS -->
+<!-- GITHUB TROPHIES -->
+<h2 align="center">🏆 Achievements & Recognition</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devaraj01311&theme=radical&no-bg=true&column=7&margin-w=15" alt="trophies" />
+</p>
+
+<!-- STATS GRID -->
 <h2 align="center">📊 Engineering Metrics</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devaraj01311&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devaraj01311&layout=compact&theme=radical&hide_border=true&title_color=00BFFF" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devaraj01311&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devaraj01311&layout=compact&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff" height="185" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devaraj01311&theme=radical&hide_border=true&stroke=00BFFF&ring=00BFFF" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devaraj01311&theme=radical&hide_border=true&stroke=00BFFF&ring=00BFFF&sideNums=00BFFF&sideLabels=ffffff" width="100%" />
 </p>
 
 ---
 
+<!-- CONTRIBUTION SNAKE -->
+<h2 align="center">🐍 Code Activity</h2>
+<p align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user=Devaraj01311&grid_colors=%231a1a1a,%23004d66,%230080aa,%2300bfff,%2366e0ff" width="100%" />
+</p>
 
 ---
 
@@ -95,5 +87,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=40&section=footer" width="100%" />
   <br/>
-  <sub><b>"The best way to predict the future is to code it."</b></sub>
+  <code><b>System.out.println("The best way to predict the future is to code it.");</b></code>
 </p>
