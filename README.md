@@ -90,5 +90,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=40&section=footer" width="100%" />
   <br/>
-  <code><b>public class Career { public static void main(String[] args) { System.out.println("Hello Potential Employer!"); } }</b></code>
+  <sub><b>"The best way to predict the future is to code it."</b></sub>
 </p>
