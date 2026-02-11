@@ -79,10 +79,6 @@
 
 <!-- STATS & METRICS -->
 <h2 align="center">📊 Engineering Metrics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devaraj01311&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devaraj01311&layout=compact&theme=radical&hide_border=true&title_color=00BFFF" height="185" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devaraj01311&theme=radical&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF" width="100%" />
