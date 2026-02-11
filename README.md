@@ -1,91 +1,77 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Devaraj%20L&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
-
-<!-- DYNAMIC TYPING TITLES -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=🚀+Entry-level+Software+Development+Engineer;🎓+MCA+Graduate+&+Full-Stack+Developer;☕+Spring+Boot+&+Java+Backend;💻+React+&+Node.js+Expert;🛠️+Scalable+Software+Architect">
+<!-- TOP NAVIGATION / HEADER -->
+<p align="right">
+  <img src="https://img.shields.io/badge/MCA_Graduate-2024-00BFFF?style=flat-square&logo=education" />
+  <img src="https://img.shields.io/badge/SDE_Candidate-Active-00BFFF?style=flat-square&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Location-India-00BFFF?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-SDE_Roles-00BFFF?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Degree-MCA_Graduate-00BFFF?style=for-the-badge&logo=education" />
-  <img src="https://komarev.com/ghpvc/?username=Devaraj01311&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001524&height=200&section=header&text=Devaraj%20L&fontSize=80&fontColor=00BFFF&animation=twinkling" width="100%" />
+</p>
+
+<!-- DYNAMIC SUBTITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=System.out.println(%22Software+Development+Engineer%22);Full-Stack+Web+Developer+(React+%2B+Node);Backend+Architect+(Spring+Boot+%2B+Microservices);MCA+Graduate+Ready+for+SDE+Roles">
 </p>
 
 ---
 
-<!-- ABOUT ME SECTION -->
+<!-- MAIN CONTENT GRID -->
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
-      <h2>✨ Executive Summary</h2>
+    <td width="55%" valign="top">
+      <h3>🚀 About Me</h3>
       <p>
-        I am a motivated <b>MCA graduate</b> with a strong foundation in software development and full-stack web technologies. I specialize in building end-to-end applications using <b>Java (Spring Boot)</b> and <b>Node.js/Express.js</b> for backend services, and <b>React.js</b> for responsive user interfaces.
+        Motivated <b>MCA graduate</b> with a strong foundation in software development and full-stack web technologies. Skilled in building end-to-end applications using <b>Java (Spring Boot)</b> and <b>Node.js/Express.js</b> for backend services, and <b>React.js</b> for responsive user interfaces.
       </p>
       <p>
-        My expertise includes <b>RESTful APIs, MongoDB/MySQL,</b> and <b>Git-based version control</b>. I am deeply familiar with the <b>SDLC</b> and eager to apply my problem-solving skills to develop scalable, maintainable software solutions as an entry-level SDE.
+        Hands-on experience with <b>RESTful APIs, databases (MongoDB/MySQL)</b>, authentication mechanisms, and Git-based version control. Familiar with <b>SDLC</b> and eager to develop scalable, maintainable software solutions as an entry-level SDE.
       </p>
-      <p align="center">
-        <a href="https://linkedin.com/in/devaraj-l-b30b88353"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:devarajldev01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <br>
+      <p align="left">
+        <a href="https://linkedin.com/in/devaraj-l-b30b88353"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:devarajldev01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/user-attachments/assets/5888e25d-229d-473d-986c-13a89073e595" width="100%" style="border-radius:15px; border: 2px solid #00BFFF;" alt="Coding Animation" />
-      <br><sub><i>Turning logic into scalable code</i></sub>
+    <td width="45%" valign="top">
+      <h3>⚡ Quick Specs</h3>
+      <ul>
+        <li><b>Main Languages:</b> Java, Python, JavaScript</li>
+        <li><b>Frameworks:</b> Spring Boot, React, Express</li>
+        <li><b>Data:</b> MongoDB, MySQL, PostgreSQL</li>
+        <li><b>DevOps:</b> Git, Docker, AWS (Learning)</li>
+      </ul>
+      <!-- RELIABLE TECH IMAGE -->
+      <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,mysql,git,docker&theme=dark" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- TECH STACK GRID -->
-<h2 align="center">🛠️ Technical Arsenal</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%"><b>Frontend</b></td>
-    <td align="center" width="25%"><b>Backend</b></td>
-    <td align="center" width="25%"><b>Database</b></td>
-    <td align="center" width="25%"><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,html,css,ts,tailwind&theme=dark" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode&theme=dark" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ANALYTICS SECTION -->
-<h2 align="center">📊 Development Metrics</h2>
-
+<!-- CODING STATS BOXED -->
+<h3 align="center">💻 System Activity</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devaraj01311&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devaraj01311&layout=compact&theme=radical&hide_border=true&title_color=00BFFF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devaraj01311&show_icons=true&theme=tokyonight&hide_border=false&title_color=00BFFF&icon_color=00BFFF&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devaraj01311&layout=compact&theme=tokyonight&hide_border=false&title_color=00BFFF&bg_color=0D1117" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devaraj01311&theme=radical&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devaraj01311&theme=tokyonight&hide_border=false&stroke=00BFFF&ring=00BFFF&fire=00BFFF&background=0D1117" width="100%" />
 </p>
 
 ---
 
-<!-- FOOTER -->
+<!-- PROFESSIONAL TROPHIES (GLASS LOOK) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=40&section=footer" width="100%" />
-  <br/>
-  <code><b>public class Career { public static void main(String[] args) { System.out.println("Hello World & Future!"); } }</b></code>
+  <img src="https://github-profile-trophy.vercel.app/?username=Devaraj01311&theme=black-ice&no-bg=true&column=8&margin-w=10" width="100%" />
+</p>
+
+---
+
+<!-- FOOTER WITH TERMINAL STYLE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=30&section=footer" width="100%" />
+  <br>
+  <code><b>user@portfolio:~$</b> sudo hire --me Devaraj</code>
 </p>
