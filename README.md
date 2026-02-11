@@ -84,11 +84,11 @@
 <!-- STATS & METRICS WITH CUSTOM COLORS -->
 <h2 align="center">📊 Engineering Performance</h2>
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devaraj01311&layout=compact&theme=radical&border_radius=10" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devaraj01311&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devaraj01311&theme=radical&hide_border=true" width="48%" />
 </p>
+
 
 ---
 
